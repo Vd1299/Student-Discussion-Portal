@@ -1,5 +1,5 @@
 # Student-Discussion-Portal
-This is a student Discussion portal made using Pythons Django framework, SQLite Database and HTML, CSS and JavaScript on Frontend to address the issue of international students.
+This is a student Discussion portal made using Pythons Django framework, SQLite Database and HTML, CSS and JavaScript to develop Frontend to address the issue of international students.
 
 # Steps to run the project
 **Prerequisites:** Install python by downloading python from official website. You will always get the latest version of the python from official website.
